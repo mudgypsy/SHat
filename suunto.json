@@ -1,0 +1,21 @@
+{
+	"data_records": {
+		
+		"data": [
+			{
+                		"timestamp":0,
+                		"timestamping": 56, 
+                        	"altitude": 3,
+                            	"heart_rate":69,
+                        	"vertical_speed": 8
+           		 },
+            		{
+                		"timestamp":1,
+	               		"timestamping": 57, 
+                            	"altitude": 5,
+                            	"heart_rate":82,
+                            	"vertical_speed":9
+			}
+		]
+	}
+}

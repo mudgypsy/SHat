@@ -1,0 +1,460 @@
+{
+  "SH_Sensors": [
+    {
+      "Humidity": 23.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:58:41.052000"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:58:44.055685"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:58:47.060296"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 26.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:58:50.065264"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 26.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:58:53.069679"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:58:56.072703"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:58:59.073335"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 26.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:02.075474"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 29.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:05.079728"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:08.083947"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:11.088560"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 26.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:14.092518"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 26.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:17.095077"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 28.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:20.100753"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:23.105051"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:26.111150"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 29.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:29.113479"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:32.116726"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 25.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:35.119707"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:38.123056"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:41.126588"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 26.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:44.131413"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 25.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:47.135983"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:50.139193"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 30.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:53.143074"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:56.146053"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 26.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T10:59:59.151079"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 28.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:02.155458"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 25.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:05.160182"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 25.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:08.164058"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 28.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:11.167394"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 28.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:14.171158"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:17.174634"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 26.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:20.177238"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 28.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:23.181040"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:26.186209"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:29.189267"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 28.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:32.193969"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:35.198156"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 25.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:38.200711"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:41.204646"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:44.208803"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:47.212998"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 26.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:50.216012"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 28.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:53.222195"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 26.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:56.225820"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 26.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:00:59.230605"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 27.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:01:02.235536"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 25.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:01:05.240704"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 28.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:01:08.242292"
+    }
+  ]
+}{
+  "SH_Sensors": [
+    {
+      "Humidity": 29.0, 
+      "Pressure": 1023.0, 
+      "Temperature": 36.0, 
+      "Time": "2019-05-21T11:01:11.246135"
+    }
+  ]
+}
